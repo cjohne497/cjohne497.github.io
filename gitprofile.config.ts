@@ -151,7 +151,7 @@ const CONFIG = {
       conferenceName: 'Conference Name',
       journalName: '',
       authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      link: 'https://github.com/cjohne497/cjohne497.github.io/raw/main/Draft%20Genome%20Sequence%20of%20Intestinibacter%20bartletti%20DSM%2016795%2C%20a%20Human%20Gut%20Isolate%20Associated%20with%20Autism%20Microbiome%20Studies%20(1).pdf',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
     },
